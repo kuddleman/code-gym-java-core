@@ -9,8 +9,14 @@ public class Solution {
     public static void main(String[] args) {
 
     }
-sssssssssssss
+
     //write your code here
-    //This is a test
-    //This is a test
+    public static void print(int i) {
+        System.out.println(i);
+    }
+
+    public static void print(String s) {
+        System.out.println(s);
+    }
+
 }
